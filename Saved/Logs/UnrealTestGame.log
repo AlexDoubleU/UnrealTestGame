@@ -1300,3 +1300,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.16-20.58.52:025][148]LogContentValidation: Display: Validating World /Game/Maps/GameMap.GameMap
 [2020.10.16-20.58.52:025][148]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
 [2020.10.16-20.58.56:071][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.10.16-21.02.38:763][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.16-21.02.41:256][233]LogSlate: Window 'Save Level As' being destroyed
+[2020.10.16-21.02.42:319][359]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.16-21.02.42:506][379]Cmd: SELECT NONE
+[2020.10.16-21.02.45:456][434]LogSlate: Window 'Save Level As' being destroyed
+[2020.10.16-21.02.46:449][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.16-21.02.51:897][168]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestMap.TestMap
+[2020.10.16-21.02.51:911][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.10.16-21.02.51:915][168]Cmd: MAP LOAD FILE="D:/Alex/UnrealProjects/UnrealTestGame/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.16-21.02.51:915][168]LightingResults: New page: Lighting Build
+[2020.10.16-21.02.51:915][168]LoadErrors: New page: Loading map: TestMap.umap
+[2020.10.16-21.02.51:916][168]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.16-21.02.51:916][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.16-21.02.51:916][168]MapCheck: New page: Map Check
+[2020.10.16-21.02.51:916][168]LightingResults: New page: Lighting Build
+[2020.10.16-21.02.51:934][168]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027257B99A00), frame # 34168
+[2020.10.16-21.02.51:934][168]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027257C79940), frame # 34168
+[2020.10.16-21.02.51:935][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.10.16-21.02.51:949][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.10.16-21.02.51:963][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.10.16-21.02.52:012][168]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.16-21.02.52:012][168]LogAIModule: Creating AISystem for world TestMap
+[2020.10.16-21.02.52:012][168]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000272106C2000), frame # 34168
+[2020.10.16-21.02.52:012][168]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027257C79080), frame # 34168
+[2020.10.16-21.02.52:027][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.10.16-21.02.52:046][168]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.16-21.02.52:046][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2020.10.16-21.02.52:046][168]LogFileHelpers: Loading map 'TestMap' took 0.132
+[2020.10.16-21.02.53:087][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="D:/Alex/UnrealProjects/UnrealTestGame/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.16-21.02.53:101][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.10.16-21.02.53:117][285]LogSavePackage: Moving 'D:/Alex/UnrealProjects/UnrealTestGame/Saved/TestMap2D6B878349E9918FBE8AA4AF97735463.tmp' to 'D:/Alex/UnrealProjects/UnrealTestGame/Content/Maps/TestMap.umap'
+[2020.10.16-21.02.53:138][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_BuiltData" FILE="D:/Alex/UnrealProjects/UnrealTestGame/Content/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2020.10.16-21.02.53:164][285]LogSavePackage: Moving 'D:/Alex/UnrealProjects/UnrealTestGame/Saved/TestMap_BuiltData6E27271B4BB5476E39D62880A0D28679.tmp' to 'D:/Alex/UnrealProjects/UnrealTestGame/Content/Maps/TestMap_BuiltData.uasset'
+[2020.10.16-21.02.53:176][285]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.16-21.02.53:176][285]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.10.16-21.02.53:176][285]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
