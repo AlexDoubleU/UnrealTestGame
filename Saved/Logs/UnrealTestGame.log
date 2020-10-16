@@ -1336,3 +1336,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.16-21.02.53:176][285]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.16-21.02.53:176][285]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
 [2020.10.16-21.02.53:176][285]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.10.16-21.10.02:391][584]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.10.16-21.10.13:746][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
